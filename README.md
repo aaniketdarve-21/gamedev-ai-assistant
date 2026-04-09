@@ -80,5 +80,5 @@ If you find this project useful:
 
 🧑‍🎨 Author
 
-Aniket Darve
+Aniket Darve |
 Game Developer
